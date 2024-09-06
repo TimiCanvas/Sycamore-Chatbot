@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Function to send an introductory message
     function sendIntroductoryMessage() {
-        const introMessage = "Hi, my name is John, I am a customer service agent for GNA, how may I help you today?";
+        const introMessage = "Hi, I am a customer service chat agent for Sycamore Oasis Homes, how may I help you today?";
         addMessageToChat(introMessage, "bot-message");
     }
 
